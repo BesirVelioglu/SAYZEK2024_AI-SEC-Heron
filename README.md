@@ -88,6 +88,7 @@ Yukarıdaki komut, `infer_config.yaml` dosyasındaki test görüntüleri yolunu 
 
 ---
 
-Proje ile ilgili sorularınız veya geri bildirimleriniz için lütfen bizimle iletişime geçin: 
-mbesirvelioglu@gmail.com
-sametkaras.tr@gmail.com
+Proje ile ilgili sorularınız veya geri bildirimleriniz için lütfen bizimle iletişime geçin:
+- mbesirvelioglu@gmail.com
+- sametkaras.tr@gmail.com
+
