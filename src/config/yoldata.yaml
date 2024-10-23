@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['yol_kesisim']
+
+roboflow:
+  workspace: trafficsigndetection-dtbmg
+  project: sayzek-datathon-zzi55
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/trafficsigndetection-dtbmg/sayzek-datathon-zzi55/dataset/3

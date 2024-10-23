@@ -1,0 +1,9 @@
+test_images_path: 'src/utils/test-images'
+output_images_path: 'src/utils/output-images'
+
+# Model paths
+models:
+  bina: 'src/models/yolov5_bina.pt'
+  yol_kesisimi: 'src/models/yolov5_yol_kesisimi.pt'
+  halisaha: 'src/models/yolov5_halisaha.pt'
+  silo: 'src/models/yolov5_silo.pt'
